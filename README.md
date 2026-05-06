@@ -2,6 +2,9 @@
 
 A command-line tool for Jira Data Center that lets you check ticket statuses, manage sprints, and query your Jira in plain English using a locally-running LLM via LM Studio.
 
+## Problem 
+
+As a security engineer we all struggle planning projects and managing mnay tickets for day to day activities. Jira is great tool, but it could become cumbersome if the process demand a lot of data points and updates on it. For me it became 20% of my work which costed me a lot of focus time on actual work and brought down productivity. Hence, created a commanline assistant that can make it easier for me to plan my sprints and analyse my tickets.
 ---
 
 ## Table of Contents
