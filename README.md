@@ -170,13 +170,13 @@ Download from [lmstudio.ai](https://lmstudio.ai). It is free and works on Window
 
 **Step 2 — Download a model**
 
-Inside LM Studio, go to the **Discover** tab and search for a model. Recommended options:
+Inside LM Studio, go to the **Discover** tab and search for a model. Models tested by me are luisted below:
 
 | Model | Size | Notes |
 |-------|------|-------|
-| Meta Llama 3 8B Instruct | ~5 GB | Good all-rounder |
-| Mistral 7B Instruct | ~4 GB | Fast and capable |
-| Phi-3 Mini | ~2 GB | Runs on lower-end hardware |
+| qwen3:1.7b | ~1 GB | Incredibly faster good for quick summarization  |
+| qwen3.5 9B | ~6 GB | Fast and intelligent, can provide good recommendations|
+| gemma4 E4B 7.5B | ~6 GB | Similar performance as qwen3.5 |
 
 Click **Download** next to your chosen model.
 
